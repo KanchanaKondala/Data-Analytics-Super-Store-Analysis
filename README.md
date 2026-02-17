@@ -121,13 +121,13 @@ Month & Year
 
 ## 📷 Dashboard Preview
 
-(Upload your screenshot here)
+https://github.com/KanchanaKondala/Data-Analytics-Super-Store-Analysis/blob/main/Power%20BI%20File.png
 
 ## 📁 Files Included
 
-📊 Power BI Dashboard (.pbix)
+📊 Power BI Dashboard (.pbix): https://github.com/KanchanaKondala/Data-Analytics-Super-Store-Analysis/blob/main/Main%20superstore.pbix
 
-🗄️ SQL Queries (.sql)
+🗄️ SQL Queries (.sql): https://github.com/KanchanaKondala/Data-Analytics-Super-Store-Analysis/blob/main/SQLQuery1-sales%20project.sql
 
 📑 Dataset (.xlsx / .csv)
 
@@ -136,6 +136,6 @@ Month & Year
 🔗 Dataset
 
 You can use the popular Superstore dataset available on Kaggle:
-👉 
+👉 https://github.com/KanchanaKondala/Data-Analytics-Super-Store-Analysis/blob/main/Data%20set.xlsx
 
 (Replace with your actual dataset link)
